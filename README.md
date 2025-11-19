@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi, I'm huisun noh 👋
+[<img width="550" height="777" alt="image" src="https://github.com/user-attachments/assets/b0ec46b3-cd46-469a-bb23-3b02255147b4" />
 
 <!--
 **nohhuisun/nohhuisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+###최근에 공부하는 내용은
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
